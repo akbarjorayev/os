@@ -1,2 +1,2 @@
 # os
-AJ OS redefining computing – where innovation meets everything.
+Banana OS redefining computing – where innovation meets everything.
